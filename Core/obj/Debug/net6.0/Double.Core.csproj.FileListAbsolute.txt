@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Double\Core\bin\Debug\net6.0\Double.Core.deps.json
+C:\Users\Usuario\source\repos\Double\Core\bin\Debug\net6.0\Double.Core.dll
+C:\Users\Usuario\source\repos\Double\Core\bin\Debug\net6.0\Double.Core.pdb
+C:\Users\Usuario\source\repos\Double\Core\bin\Debug\net6.0\Double.Domain.dll
+C:\Users\Usuario\source\repos\Double\Core\bin\Debug\net6.0\Double.Domain.pdb
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.dll
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\refint\Double.Core.dll
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\Double.Core.pdb
+C:\Users\Usuario\source\repos\Double\Core\obj\Debug\net6.0\ref\Double.Core.dll

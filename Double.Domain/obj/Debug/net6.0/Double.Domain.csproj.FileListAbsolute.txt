@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Double\Double.Domain\bin\Debug\net6.0\Double.Domain.deps.json
+C:\Users\Usuario\source\repos\Double\Double.Domain\bin\Debug\net6.0\Double.Domain.runtimeconfig.json
+C:\Users\Usuario\source\repos\Double\Double.Domain\bin\Debug\net6.0\Double.Domain.dll
+C:\Users\Usuario\source\repos\Double\Double.Domain\bin\Debug\net6.0\Double.Domain.pdb
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.dll
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\refint\Double.Domain.dll
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.pdb
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\Double.Domain.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Double\Double.Domain\obj\Debug\net6.0\ref\Double.Domain.dll
