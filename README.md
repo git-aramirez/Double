@@ -18,7 +18,7 @@ Layers:
 ## DataBase
 SqlServer
 
-##Logger
+## Logger
 In the application, logs are printed to keep track of the flow
 
 ## Exceptions
